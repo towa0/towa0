@@ -1,30 +1,29 @@
-# 👋 Hi there, I'm Kyran - @towa0!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyran Janssen
+=====================================================================================================================================
 
-Hello, I'm Kyran, a 19-year-old based in Abu Dhabi. I have a unique blend of Dutch and Japanese heritage, bringing diversity to my perspectives and projects.
+Web Developer
+-------------
 
-## 👀 About Me
+I make websites in mostly the MERN stack, I delight in crafting visually stunning and responsive UIs using TailwindCSS, showcasing my skills in my portfolio; beyond coding, I explore the realms of web scraping and Python automation, unwind by playing the piano, and maintain a healthy focus with regular gym sessions—I also hope AI won't take over the world for a while!
 
-- 🚀 I'm passionate about web development, specifically the MERN stack.
-- 🎨 I enjoy crafting beautiful and responsive UIs using TailwindCSS.
-- 🌐 Check out my portfolio at [kyran.info](https://kyran.info).
-- 🐍 I love exploring the realms of web scraping and automation with Python.
-- 🎹 Outside of coding, you'll find me playing the piano to unwind.
-- 💪 I'm a fitness enthusiast, hitting the gym to stay healthy and focused.
+* 🌍  I'm based in Abu Dhabi
+* 🖥️  See my portfolio at [Portfolio](http://kyran.info)
+* ✉️  You can contact me at [janssenkyran999@gmail.com](mailto:janssenkyran999@gmail.com)
+* 🧠  I'm learning NextJS, TypeScript, NumPy
+* 🤝  I'm open to collaborating on e-commerce / automation / webdesign projects
+* ⚡  I have a cat named Tofu
 
-## 🌱 Currently Learning
+### Skills
 
-I believe in lifelong learning and constantly strive to expand my skill set. Currently, I'm diving deep into new technologies and frameworks to keep up with the ever-evolving tech landscape.
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+</p>
 
-## 💞️ Open to Collaboration
+### Socials
 
-I'm open to collaborating on exciting projects! If you have an idea or need a hand with development, feel free to reach out.
+<p align="left"> <a href="https://discord.com/users/t0ws" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com//towa0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/in/kyran-janssen-551b31193/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-## 📫 How to Reach Me
+<b>My GitHub Stats</b>
 
-- 📧 Email: [janssenkyran999@gmail.com](mailto:janssenkyran999@gmail.com)
-- 📷 LinkedIn: [Kyran Janssen]([https://www.instagram.com/your_instagram_handle/](https://www.linkedin.com/in/kyran-janssen-551b31193/))
-
-<!---
-towa0/towa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="http://www.github.com//towa0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=/towa0&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
