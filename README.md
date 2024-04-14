@@ -6,10 +6,10 @@ Web Developer
 
 I make websites in mostly the MERN stack, I delight in crafting visually stunning and responsive UIs using TailwindCSS, showcasing my skills in my portfolio; beyond coding, I explore the realms of web scraping and Python automation, unwind by playing the piano, and maintain a healthy focus with regular gym sessions—I also hope AI won't take over the world for a while!
 
-* 🌍  I'm based in Abu Dhabi
+* 🌍  I'm based in Rotterdam
 * 🖥️  See my portfolio at [Portfolio](http://kyran.info)
 * ✉️  You can contact me at [janssenkyran999@gmail.com](mailto:janssenkyran999@gmail.com)
-* 🧠  I'm learning NextJS, TypeScript, NumPy
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on e-commerce / automation / webdesign projects
 * ⚡  I have a cat named Tofu
 
