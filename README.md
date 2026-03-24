@@ -1,8 +1,7 @@
-# Kyran Janssen — Frontend Developer
+# Kyran Janssen — Web Developer
 
-Based in the Netherlands. Building with React, TailwindCSS, and Node.js.
-Into e-commerce, automation, and web scraping on the side.
+Based in the Netherlands. Building full-stack websites for various businesses.
+Automation & web scraping on the side.
 
-**Stack:** JavaScript · React · TailwindCSS · Node.js · MongoDB · Python
 
-**Links:** [Portfolio](http://kyran.info) · [GitHub](https://github.com/towa0) · [LinkedIn](https://www.linkedin.com/in/kyran-janssen-551b31193/)
+**Links:** [Portfolio](http://kyranjanssen.com) · [LinkedIn](https://www.linkedin.com/in/kyran-janssen-551b31193/)
