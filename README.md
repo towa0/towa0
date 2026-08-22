@@ -1,4 +1,4 @@
-# Kyran Janssen — Web Developer
+# Kyran Janssen — Developer
 
 Based in the Netherlands. Building full-stack websites for various businesses.
 Automation & web scraping on the side.
